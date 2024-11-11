@@ -1,1 +1,1 @@
-<title>studiu-de-caz-git-github</title>
+studiu-de-caz-git-github
